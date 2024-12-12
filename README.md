@@ -55,19 +55,25 @@ Here are some examples of visualizations included in the dashboard:
 
 1. **Tourist Demographics:**
 
-![Capture d'écran 2024-07-15 134528](https://github.com/user-attachments/assets/33aed9a6-4981-437c-b6ed-bc8840ea754c)
+![image](https://github.com/user-attachments/assets/95d1a1fd-c01c-4c0d-95e0-c25770c13351)
 
-2. **GDP Decomposition:**
+2.**Hotel Capacity and Nights Spent:**
+
    
-![Capture d'écran 2024-07-15 134603](https://github.com/user-attachments/assets/4ed8445f-eca3-46bd-b682-9f4af1685b98)
+![image](https://github.com/user-attachments/assets/b78b456d-1863-4c2e-a909-9d541217926e)
 
 
 
-5. **Transport Trends:**
+3. **GDP Decomposition:**
+
+![image](https://github.com/user-attachments/assets/3cae5690-283d-4a99-9819-83edfb4db10e)
+
+4.**Sustainability and Growth:**
+
+![image](https://github.com/user-attachments/assets/d2a09c53-bba3-4356-a83a-4ee4e0975a47)
 
 
 ---
-
 ## 📈 **Learning Outcomes**
 
 - Mastered **Power BI** for advanced data visualization and analysis.
