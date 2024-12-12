@@ -1,8 +1,7 @@
-# Tourism-Dashboard-Internship
-This repository showcases the work done during my internship at Amaris Consulting, including a Tourism Dashboard project developed in Power BI and other related contributions.
+
 # Tourism Dashboard Internship
 
-This repository highlights the work I completed during my internship at **Amaris Consulting** from **June 3, 2024, to July 26, 2024**. The main focus of my internship was to develop a comprehensive tourism dashboard for Tunisia, leveraging data analysis and visualization tools to provide actionable insights.
+This repository highlights the work I completed during my internship at **Amaris Consulting** from **June 3, 2024, to July 26, 2024**. The main focus of my internship was to develop a comprehensive tourism dashboard for Tunisia in Power BI , leveraging data analysis and visualization tools to provide actionable insights.
 
 ---
 
