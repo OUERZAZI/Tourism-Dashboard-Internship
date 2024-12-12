@@ -54,8 +54,8 @@ Here are some examples of visualizations included in the dashboard:
 ![Capture d'écran 2024-07-15 134434](https://github.com/user-attachments/assets/1745d8e7-64ed-4a6e-a20b-8f9ad7baa0b4)
 
 1. **Tourist Demographics:**
-![Capture d'écran 2024-07-15 134528](https://github.com/user-attachments/assets/33aed9a6-4981-437c-b6ed-bc8840ea754c)
 
+![Capture d'écran 2024-07-15 134528](https://github.com/user-attachments/assets/33aed9a6-4981-437c-b6ed-bc8840ea754c)
 
 2. **GDP Decomposition:**
    
